@@ -1,0 +1,181 @@
+<resources>
+    <string name="app_name" translatable="false">MemStash</string>
+    <string name="tile_label" translatable="false">MemStash</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="close">Close</string>
+    <string name="back">Back</string>
+    <string name="settings">Settings</string>
+    <string name="dismiss">Dismiss</string>
+
+    <string name="choose_folder_title">Choose your meme folder</string>
+    <string name="choose_folder_text">Pick any folder with memes. MemStash gets access only to that folder and its subfolders, and search looks into the subfolders too.</string>
+    <string name="choose_folder_action">Choose folder</string>
+    <string name="error_folder_access">Android didn\'t grant access to this folder</string>
+    <string name="error_copy_folder">This folder only holds MemStash\'s temporary gallery copies. Pick another one.</string>
+    <string name="error_holds_copy_folder">This folder holds MemStash\'s gallery copies (Pictures/MemStash). Pick a folder inside it, e.g. “Pictures/Memes”.</string>
+    <string name="error_reading_folder">Can\'t read the meme folder</string>
+
+    <string name="error_send">Couldn\'t copy the meme</string>
+    <string name="error_meme_missing">This meme is no longer in the folder</string>
+    <string name="toast_sent_gallery">The meme is first in your gallery</string>
+    <string name="toast_sent_gallery_old_copy">The meme is first in your gallery. Delete the old copy in the MemStash album.</string>
+    <string name="toast_sent_clipboard">Meme copied to the clipboard</string>
+    <string name="toast_mode_gallery">Mode: gallery copy</string>
+    <string name="toast_mode_clipboard">Mode: clipboard</string>
+    <string name="mode_gallery">Gallery copy</string>
+    <string name="mode_clipboard">Clipboard</string>
+
+    <string name="tile_added">Added the “%1$s” tile</string>
+    <string name="tile_already_added">The tile is already added</string>
+
+    <string name="loading">Loading…</string>
+    <string name="loading_memes">Loading memes…</string>
+    <string name="searching">Searching…</string>
+    <string name="no_results">No memes for “%1$s”</string>
+    <string name="recent_empty">Memes you copy will show up here</string>
+    <string name="no_memes">No memes</string>
+    <plurals name="memes_count">
+        <item quantity="one">%1$d meme</item>
+        <item quantity="other">%1$d memes</item>
+    </plurals>
+    <plurals name="memes_for_query">
+        <item quantity="one">%1$d meme for “%2$s”</item>
+        <item quantity="other">%1$d memes for “%2$s”</item>
+    </plurals>
+    <string name="show_full">Show whole memes</string>
+    <string name="show_square">Show squares</string>
+    <string name="folders">Folders</string>
+    <string name="show_folders">Show folders</string>
+    <string name="hide_folders">Hide folders</string>
+    <string name="folder_up">Up one folder</string>
+    <string name="folder_options">Folder options</string>
+    <string name="delete_folder_title">Delete this folder?</string>
+    <plurals name="delete_folder_text">
+        <item quantity="one">The folder “%1$s” and everything in it (%2$d meme) will be deleted.</item>
+        <item quantity="other">The folder “%1$s” and everything in it (%2$d memes) will be deleted.</item>
+    </plurals>
+    <string name="delete_folder_other_title">The folder holds other files too</string>
+    <string name="delete_folder_other_text">Besides memes, “%1$s” holds files MemStash doesn\'t show: %2$s. Deleting the folder deletes them too.</string>
+    <plurals name="other_files_more">
+        <item quantity="one">and %1$d more</item>
+        <item quantity="other">and %1$d more</item>
+    </plurals>
+    <string name="delete_everything">Delete everything</string>
+    <string name="show_in_files">Show in file manager</string>
+    <string name="error_open_files">Couldn\'t open a file manager</string>
+    <string name="error_name_taken">A folder or file with this name already exists</string>
+    <string name="error_rename_folder">Couldn\'t rename the folder</string>
+    <string name="error_delete_folder">Couldn\'t delete the folder</string>
+    <string name="folder_only_this">%1$s, this folder only</string>
+    <string name="chip_recent">Recent</string>
+    <string name="chip_all">All</string>
+    <string name="search_hint">Search memes</string>
+    <string name="clear">Clear</string>
+    <string name="add_memes">Add memes</string>
+    <string name="add_way_share">Share an image from another app and pick MemStash.</string>
+    <string name="add_way_clipboard">Copy an image in another app and MemStash will offer to add it.</string>
+    <string name="add_way_files">You can also manage the “%1$s” folder in a file manager or on a computer, for example to add files or move folders.</string>
+    <string name="from_gallery">From gallery</string>
+    <string name="from_clipboard">From clipboard</string>
+    <string name="clipboard_offer">Image on the clipboard</string>
+    <string name="clipboard_add">Add</string>
+    <string name="no_clipboard_image">There is no image on the clipboard</string>
+    <string name="clipboard_image_unreadable">Can\'t read the image on the clipboard. Copy it again.</string>
+    <string name="clipboard_image_unsupported">This image can\'t be added from the clipboard</string>
+
+    <string name="sent_ago">" · copied %1$s"</string>
+    <string name="sent_just_now">" · copied just now"</string>
+    <string name="send">Copy</string>
+    <string name="meme_options">Options</string>
+    <string name="rename">Rename</string>
+    <string name="move">Move</string>
+    <string name="delete">Delete</string>
+    <string name="to_gallery">To gallery</string>
+    <string name="to_clipboard">To clipboard</string>
+    <string name="move_to_folder">Move to folder</string>
+    <string name="delete_title">Delete this meme?</string>
+    <string name="delete_text">“%1$s” will be deleted.</string>
+    <string name="name_hint">Search finds the meme by this name</string>
+    <string name="renamed">Renamed</string>
+    <string name="error_rename">Couldn\'t rename the meme</string>
+    <string name="error_move">Couldn\'t move the meme</string>
+    <string name="error_delete">Couldn\'t delete the meme</string>
+    <string name="moved_to">Moved to “%1$s”</string>
+    <string name="deleted">Deleted “%1$s”</string>
+    <string name="new_folder_in">New folder in “%1$s”</string>
+    <string name="new_folder_here">New folder here</string>
+    <string name="create">Create</string>
+
+    <string name="add_meme">Add meme</string>
+    <string name="add_memes_count">Add memes (%1$d)</string>
+    <string name="add">Add</string>
+    <plurals name="add_n_memes">
+        <item quantity="one">Add %1$d meme</item>
+        <item quantity="other">Add %1$d memes</item>
+    </plurals>
+    <string name="copying">Copying %1$d/%2$d…</string>
+    <string name="meme_name">Meme name</string>
+    <string name="save_in">Save in</string>
+    <string name="save_in_folder">Save in folder</string>
+    <string name="change">Change</string>
+    <string name="open_app">Open MemStash</string>
+    <string name="import_no_folder">Open MemStash and choose your meme folder first.</string>
+    <string name="import_unsupported">This can\'t be added as a meme. Photos and GIFs are supported.</string>
+    <string name="import_read_failed">Couldn\'t read the image</string>
+    <string name="error_import">Copying failed. Try again.</string>
+    <plurals name="added_memes">
+        <item quantity="one">Added %1$d meme to “%2$s”</item>
+        <item quantity="other">Added %1$d memes to “%2$s”</item>
+    </plurals>
+
+    <string name="section_folder">Meme folder</string>
+    <string name="loading_list">Loading the meme list…</string>
+    <string name="memes_in_folder">Memes in the folder and subfolders: %1$d</string>
+    <string name="change_folder">Change folder</string>
+    <string name="refresh">Refresh</string>
+    <string name="disconnect_folder">Disconnect</string>
+    <string name="disconnect_title">Disconnect the folder?</string>
+    <string name="disconnect_text">MemStash will lose access to “%1$s”. Your memes stay where they are, and you can choose the folder again later.</string>
+    <string name="hide_from_gallery">Hide memes from the gallery</string>
+    <string name="hide_from_gallery_description">Memes won\'t show up in the gallery or in photo pickers.</string>
+    <string name="error_hide_from_gallery">Couldn\'t change the gallery visibility</string>
+    <string name="section_send">When you tap a meme</string>
+    <string name="mode_gallery_description">The meme becomes your newest photo.</string>
+    <string name="mode_clipboard_description">The meme goes to the clipboard, ready to paste.</string>
+    <string name="delete_copies">Gallery copy is deleted</string>
+    <plurals name="copy_cleanup_after">
+        <item quantity="one">After %1$d minute</item>
+        <item quantity="other">After %1$d minutes</item>
+    </plurals>
+    <string name="copy_cleanup_on_open">When MemStash opens</string>
+    <string name="delete_copies_now">Delete copies now</string>
+    <string name="copies_deleted">Copies deleted: %1$d</string>
+    <string name="section_about">About</string>
+    <string name="license_notice" translatable="false">MemStash is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License version 3 as published by the Free Software Foundation.</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="source_code">Source code</string>
+    <string name="licenses">Licenses</string>
+    <string name="licenses_libraries">Libraries</string>
+    <string name="licenses_font">Font</string>
+    <string name="no_app_for_link">No app can open this link</string>
+    <string name="close_completely">Close completely</string>
+    <string name="close_completely_description">After closing, MemStash doesn\'t stay in recent apps.</string>
+    <string name="clear_history">Clear copy history</string>
+    <string name="clear_history_title">Clear the copy history?</string>
+    <string name="clear_history_text">The Recent list will be empty, and search and folders will lose their order by use. The memes stay where they are.</string>
+    <string name="clear_history_confirm">Clear</string>
+    <string name="history_cleared">History cleared</string>
+    <string name="section_look">Appearance</string>
+    <string name="section_behavior">Behavior</string>
+    <string name="columns">Columns: %1$d</string>
+    <string name="sort_label">Sorting</string>
+    <string name="sort_name">By name (A-Z)</string>
+    <string name="sort_newest">By date (newest first)</string>
+    <string name="keyboard_on_open">Show keyboard on open</string>
+    <string name="keyboard_on_open_description">The search field is ready for typing right away.</string>
+    <string name="tile_title">Quick Settings tile</string>
+    <string name="tile_how">Pull down Quick Settings, open their editing (often a pencil icon) and add the “%1$s” tile.</string>
+    <string name="tile_add">Add the Quick Settings tile</string>
+</resources>

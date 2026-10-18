@@ -1,0 +1,9 @@
+# LF everywhere, also in Windows checkouts
+* text=auto eol=lf
+
+# cmd.exe needs CRLF
+*.bat text eol=crlf
+
+*.jar binary
+*.png binary
+*.ttf binary

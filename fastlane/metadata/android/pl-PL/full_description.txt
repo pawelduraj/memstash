@@ -1,0 +1,16 @@
+MemStash przechowuje Twoje memy w wybranym przez Ciebie folderze i w kilka kliknięć przekazuje właściwy do czatu.
+
+Otwierasz go kafelkiem w szybkich ustawieniach na wierzchu dowolnego czatu, wpisujesz kilka liter z nazwy mema i klikasz go. MemStash przekazuje mema w sposób, w jaki czat może go przyjąć:
+- Kopia w galerii - mem staje się najnowszym zdjęciem, pierwszym w galerii czatu. Każda kopia zastępuje poprzednią i jest usuwana automatycznie, domyślnie po 3 minutach.
+- Schowek - wklejasz mema z klawiatury.
+
+Twoje memy, Twój folder
+- Memy to zwykłe pliki z obrazkami w folderze, który wybierzesz. Nazwa pliku to nazwa mema, podfoldery działają jak kategorie.
+- Wyszukiwarka ignoruje wielkość liter i polskie znaki oraz wybacza literówki.
+- Zmieniasz nazwy, przenosisz i usuwasz memy, tworzysz foldery, zmieniasz ich nazwy i je usuwasz w aplikacji albo zarządzasz folderem w dowolnym menedżerze plików lub z komputera.
+- Memy dodajesz, udostępniając obrazek do MemStash, z systemowego wyboru zdjęć albo wklejając obrazek skopiowany w innej aplikacji.
+- JPEG, PNG, GIF, WebP, HEIC, AVIF i BMP (podgląd AVIF od Androida 12).
+
+Prywatność przede wszystkim
+- Bez dostępu do internetu, bez reklam, bez śledzenia, bez konta.
+- Dostęp tylko do jednego wybranego folderu - bez uprawnień do pamięci.

@@ -1,0 +1,7 @@
+<resources>
+    <!-- Translucent, so the app underneath stays visible above the meme panel. -->
+    <style name="Theme.MemStash" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+</resources>

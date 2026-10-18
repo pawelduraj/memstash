@@ -1,0 +1,16 @@
+MemStash keeps your memes in a folder you choose and gets the right one into a chat in a few taps.
+
+Open it from a Quick Settings tile on top of any chat app, type a few letters of the meme's name and tap it. MemStash hands the meme over the way the chat can take it:
+- Gallery copy - the meme becomes your newest photo, first in the chat's gallery picker. Each copy replaces the previous one and is deleted automatically, after 3 minutes by default.
+- Clipboard - paste the meme from your keyboard.
+
+Your memes, your folder
+- Memes are ordinary image files in a folder you pick. The file name is the meme's name, subfolders work as categories.
+- Search ignores case and accents and forgives typos.
+- Rename, move and delete memes and create, rename and delete folders in the app, or manage the folder with any file manager or from a computer.
+- Add memes by sharing an image to MemStash, from the photo picker, or by pasting an image you copied in another app.
+- JPEG, PNG, GIF, WebP, HEIC, AVIF and BMP (AVIF previews need Android 12 or newer).
+
+Private by design
+- No internet access, no ads, no tracking, no account.
+- Access only to the one folder you choose - no storage permission.

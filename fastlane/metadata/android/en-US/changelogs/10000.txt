@@ -1,0 +1,6 @@
+- Quick Settings tile that opens MemStash on top of any chat.
+- Search by name that forgives typos.
+- Send a meme as a gallery copy or through the clipboard.
+- Memes stay in a folder you pick, subfolders work as categories.
+- Rename, move and delete memes and manage folders in the app.
+- Add memes from the share menu, the photo picker or the clipboard.
